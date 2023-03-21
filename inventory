@@ -1,0 +1,5 @@
+[ansible_nodes]
+172.16.136.83 ansible_user=ansible_usr
+
+[ansible_nodes:vars]
+ansible_connection=local
