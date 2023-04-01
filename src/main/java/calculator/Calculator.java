@@ -22,7 +22,7 @@ public class Calculator {
         double number1, number2;
 
         while (true) {
-            System.out.println("Scientific Calculator  using DevOps. \n Choose operation:");
+            System.out.println("Scientific Calculator using DevOps. \n Choose operation:");
             System.out.print("1. Factorial\n2. Square root\n3. Power\n4. Natural Logarithm\n" +
                     "5. Exit\nEnter your choice: ");
             int choice;
